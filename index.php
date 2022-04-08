@@ -22,7 +22,7 @@
 
 </head>
 
-
+       
 <body class="bg-gradient" background="template/2.jpg" style="-webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
